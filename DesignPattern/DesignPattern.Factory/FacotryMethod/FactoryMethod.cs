@@ -7,7 +7,7 @@ namespace DesignPattern.Factory.FactoryMethod
     public class MoneyBackFacotry: CreditCardFactory
     {
         CreditCard creditCard;
-        protected CreditCard MakeProduct()
+        protected override CreditCard MakeProduct()
         {
             creditCard = new MoneyBack();
             return creditCard;
@@ -17,7 +17,7 @@ namespace DesignPattern.Factory.FactoryMethod
     public class TitaniamFactory: CreditCardFactory
     {
         CreditCard creditCard;
-        protected  CreditCard MakeProduct()
+        protected override CreditCard MakeProduct()
         {
             creditCard = new Titaniam();
             return creditCard;
@@ -28,7 +28,7 @@ namespace DesignPattern.Factory.FactoryMethod
     {
         CreditCard creditCard;
 
-        protected CreditCard MakeProduct()
+        protected override CreditCard MakeProduct()
         {
             creditCard = new Platinam();
             return creditCard;
