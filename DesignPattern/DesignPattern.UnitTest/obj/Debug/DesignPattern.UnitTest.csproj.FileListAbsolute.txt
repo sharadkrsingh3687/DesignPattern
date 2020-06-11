@@ -1,0 +1,14 @@
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\DesignPattern.UnitTest.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\DesignPattern.UnitTest.pdb
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\obj\Debug\DesignPattern.UnitTest.csprojAssemblyReference.cache
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\obj\Debug\DesignPattern.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\obj\Debug\DesignPattern.UnitTest.csproj.CopyComplete
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\obj\Debug\DesignPattern.UnitTest.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.UnitTest\obj\Debug\DesignPattern.UnitTest.pdb

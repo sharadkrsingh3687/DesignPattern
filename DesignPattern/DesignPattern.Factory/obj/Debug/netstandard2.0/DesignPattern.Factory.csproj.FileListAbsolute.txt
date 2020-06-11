@@ -1,0 +1,9 @@
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\bin\Debug\netstandard2.0\DesignPattern.Factory.deps.json
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\bin\Debug\netstandard2.0\DesignPattern.Factory.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\bin\Debug\netstandard2.0\DesignPattern.Factory.pdb
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\obj\Debug\netstandard2.0\DesignPattern.Factory.csprojAssemblyReference.cache
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\obj\Debug\netstandard2.0\DesignPattern.Factory.AssemblyInfoInputs.cache
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\obj\Debug\netstandard2.0\DesignPattern.Factory.AssemblyInfo.cs
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\obj\Debug\netstandard2.0\DesignPattern.Factory.csproj.CoreCompileInputs.cache
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\obj\Debug\netstandard2.0\DesignPattern.Factory.dll
+C:\Users\sharad kumar singh\source\repos\DesignPattern\DesignPattern\DesignPattern.Factory\obj\Debug\netstandard2.0\DesignPattern.Factory.pdb

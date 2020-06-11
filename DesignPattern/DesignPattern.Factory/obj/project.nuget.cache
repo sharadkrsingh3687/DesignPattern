@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgdEf/ME8I8TgRjHnMgVrohmBzvlTyD9LQ/oJjQcZJf1jqzximdrLJRqQ2BIYVLCm6kH2VPZFlTv1szGU4U3Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sharad kumar singh\\source\\repos\\DesignPattern\\DesignPattern\\DesignPattern.Factory\\DesignPattern.Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sharad kumar singh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sharad kumar singh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
